@@ -65,5 +65,7 @@ BookTrack/
 ### user interface
 ![image](https://github.com/user-attachments/assets/40a479a9-be4c-46d0-b1e3-3effe64f5639)
 
+### user profile dashboard
+![image](https://github.com/user-attachments/assets/ed27e9b8-c323-461e-8c43-5bd36e847b02)
 
 
